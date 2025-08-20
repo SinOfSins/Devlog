@@ -1,8 +1,9 @@
 v0.0.0
-Start of devlog
 
 Added:
-+ Settings
-+ Titles
-+ Title Colors
-+ Dialogue
++ added area zones
++ added music for entering zones
++ added area notifications
++ added spawn setter npcs
++ music is significantly reduced to 40% when in dialogue
+
